@@ -3,7 +3,7 @@ Version:	51640
 Release:	2
 Summary:	Counters spelled out in Portuguese
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numberpt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/numberpt
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numberpt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numberpt.doc.r%{version}.tar.xz
